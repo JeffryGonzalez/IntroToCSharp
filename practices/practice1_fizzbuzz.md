@@ -15,6 +15,7 @@ If it doesn't meet these criteria, simply print the number.
 
 Your output should look similar to the following:
 
+```
 1
 2
 Fizz
@@ -31,3 +32,4 @@ Fizz
 14
 FizzBuzz
 ...
+```
