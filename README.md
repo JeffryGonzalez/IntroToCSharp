@@ -5,4 +5,5 @@ This repository has been created for the Introduction to Windows Development wit
 
 It contains practice exercises and some guidance for students learning C#.
 
+The practices are listed in the **practices** folder. One week before the second half of the class, I will add a "solutions" folder with examples of how these practices might be accomplished.
 
