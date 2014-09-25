@@ -1,14 +1,15 @@
 ﻿using System.Reflection;
+using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("JournalVariation3ExtraCredit")]
+[assembly: AssemblyTitle("WebPageReader")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("JournalVariation3ExtraCredit")]
+[assembly: AssemblyProduct("WebPageReader")]
 [assembly: AssemblyCopyright("Copyright ©  2014")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -19,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("c30f5315-b1ce-4eb1-90f1-1559bff44b4a")]
+[assembly: Guid("47197b69-ae54-4112-801e-ceea83d38d24")]
 
 // Version information for an assembly consists of the following four values:
 //
